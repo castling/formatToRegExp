@@ -1,0 +1,23 @@
+{
+  "name": "formatToRegExp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castling/formatToRegExp.git"
+  },
+  "keywords": [],
+  "author": "Takeshi Sugimura <unvodka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castling/formatToRegExp/issues"
+  },
+  "homepage": "https://github.com/castling/formatToRegExp#readme",
+  "dependencies": {
+    "parseFormat": "github:castling/parseFormat"
+  }
+}
